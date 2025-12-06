@@ -1,0 +1,4 @@
+1|850000|dipesan|Muhammad Ibnu|0123456789|Semarang|AC,Kamar Mandi Dalam
+2|750000|tersedia|-|-|-|Kipas Angin
+3|950000|tersedia|-|-|-|AC,Kamar Mandi Dalam,TV
+4|750000|tersedia|-|-|-|Kipas angin, kamar mandi luar
